@@ -8,3 +8,8 @@ git branch
 - `git log --oneline --graph`: help you see the commit/branch entries
 (after add and commit:)
 ![alt text](image.png)
+
+- `git switch main` : the file you changed (on b1) becomes the original one (on main)
+- `git log --oneline --graph --all`: see all branches
+
+- `git push origin b1`: pushes the b1 branch to the remote

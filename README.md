@@ -13,3 +13,4 @@ git branch
 - `git log --oneline --graph --all`: see all branches
 
 - `git push origin b1`: pushes the b1 branch to the remote
+- `git pull origin b1`: pulls the b1 branch from the remote

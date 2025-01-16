@@ -14,3 +14,7 @@ git branch
 
 - `git push origin b1`: pushes the b1 branch to the remote
 - `git pull origin b1`: pulls the b1 branch from the remote
+
+pull the branch to the local main branch
+- `git switch main`
+- `git pull origin main`
